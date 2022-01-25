@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Will Schutte
+- 👀 Just started here at Cove as a full-stack software engineer
+- 🌱 I’m still learning the code base
+- 📫 Feel free to say hi!
