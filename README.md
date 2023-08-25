@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Will!
 - 🐻 Tech Lead for Frontend Architecture here at Covetool!
 - 📫 Feel free to say hi!
-- 
